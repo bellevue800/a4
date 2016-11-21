@@ -108,7 +108,7 @@
 </source>
 <zIndex>0</zIndex>
 </connections>
-<mary90>
+<john888>
 <id>007c9ae4-795e-41b2-8626-8c5f13b64501</id>
 <parentGroupId>7c84501d-d10c-407c-b9f3-1d80e38fe36a</parentGroupId>
 <position>
@@ -537,9 +537,9 @@
 <style/>
 <supportsEventDriven>false</supportsEventDriven>
 <supportsParallelProcessing>true</supportsParallelProcessing>
-<type>org.apache.nifi.mary90.standard.MergeContent</type>
-</mary90>
-<mary90>
+<type>org.apache.nifi.john888.standard.MergeContent</type>
+</john888>
+<john888>
 <id>f52ffdb6-a583-4dd1-b2ac-4b0864d6d3e4</id>
 <parentGroupId>7c84501d-d10c-407c-b9f3-1d80e38fe36a</parentGroupId>
 <position>
@@ -672,9 +672,9 @@
 <style/>
 <supportsEventDriven>true</supportsEventDriven>
 <supportsParallelProcessing>true</supportsParallelProcessing>
-<type>org.apache.nifi.mary90.standard.RouteOnContent</type>
-</mary90>
-<mary90>
+<type>org.apache.nifi.john888.standard.RouteOnContent</type>
+</john888>
+<john888>
 <id>b4509ea5-edde-4595-b6aa-2b4c17dbcd41</id>
 <parentGroupId>7c84501d-d10c-407c-b9f3-1d80e38fe36a</parentGroupId>
 <position>
@@ -728,9 +728,9 @@
 <style/>
 <supportsEventDriven>true</supportsEventDriven>
 <supportsParallelProcessing>true</supportsParallelProcessing>
-<type>org.apache.nifi.mary90.attributes.UpdateAttribute</type>
-</mary90>
-<mary90>
+<type>org.apache.nifi.john888.attributes.UpdateAttribute</type>
+</john888>
+<john888>
 <id>d2c4439e-c320-4838-b94b-03b8e8b4aa41</id>
 <parentGroupId>7c84501d-d10c-407c-b9f3-1d80e38fe36a</parentGroupId>
 <position>
@@ -784,9 +784,9 @@
 <style/>
 <supportsEventDriven>true</supportsEventDriven>
 <supportsParallelProcessing>true</supportsParallelProcessing>
-<type>org.apache.nifi.mary90.attributes.UpdateAttribute</type>
-</mary90>
-<mary90>
+<type>org.apache.nifi.john888.attributes.UpdateAttribute</type>
+</john888>
+<john888>
 <id>e830ccee-8663-42a8-899d-fac0bf82ae6f</id>
 <parentGroupId>7c84501d-d10c-407c-b9f3-1d80e38fe36a</parentGroupId>
 <position>
@@ -1055,9 +1055,9 @@
 <style/>
 <supportsEventDriven>false</supportsEventDriven>
 <supportsParallelProcessing>true</supportsParallelProcessing>
-<type>org.apache.nifi.mary90.standard.GetFile</type>
-</mary90>
-<mary90>
+<type>org.apache.nifi.john888.standard.GetFile</type>
+</john888>
+<john888>
 <id>53b1fa4e-3bf1-435f-8bae-7853676f2d2d</id>
 <parentGroupId>7c84501d-d10c-407c-b9f3-1d80e38fe36a</parentGroupId>
 <position>
@@ -1179,8 +1179,8 @@
 <style/>
 <supportsEventDriven>true</supportsEventDriven>
 <supportsParallelProcessing>true</supportsParallelProcessing>
-<type>org.apache.nifi.mary90.standard.SplitText</type>
-</mary90>
+<type>org.apache.nifi.john888.standard.SplitText</type>
+</john888>
 </snippet>
 <timestamp>09/08/2015 16:43:55 EDT</timestamp>
 </template>

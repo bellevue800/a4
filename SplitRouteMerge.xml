@@ -1157,7 +1157,7 @@
 <runDurationMillis>0</runDurationMillis>
 <schedulingPeriod>0 sec</schedulingPeriod>
 <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
-<yieldDuration>1 sec</yieldDuration>
+<yieldDuration>1 sec </yieldDuration>
 </config>
 <name>SplitText</name>
 <relationships>
